@@ -1,1 +1,41 @@
-
+{
+  "users":[
+{
+  "id":1,
+   "name": "Yuki",
+  "photo": "https://i.pinimg.com/736x/a8/18/56/a818565212d29e2ee3381b60b559e5af.jpg",
+  "balance": 15000,
+  "age": 67,
+  "address": "st. EvaKoroleva, 67",
+  "email": "evakoroleva228@gmail.com",
+  "password": "EvaKorolevaUltraBoss52"
+}
+    {
+  "id":2,
+   "name": "Andriy",
+  "photo": "https://i.pinimg.com/736x/a8/18/56/a818565212d29e2ee3381b60b559e5af.jpg",
+  "balance": 150,
+  "age": 228,
+  "address": "Palatka v parku",
+  "email": "andriyPalatkaLove@gmail.com",
+  "password": "EvaIsANightmare"
+}
+  ]
+  "products":[
+    {
+"id":00028,
+    "name":"Cake 'Unicorn Man'",
+    "photo": "https://i.pinimg.com/736x/f9/7b/1c/f97b1cec07e200bba17436ee69bb0cee.jpg",
+    "description": "A beautiful cake that would fit perfectly for your kid's birthday!",
+    "price": 2500
+    }
+    {
+"id":00030,
+    "name":"Cake 'Stupid Shit'",
+    "photo": "https://i.pinimg.com/1200x/39/fb/ae/39fbae43f26086f2e20f15e9d6c2c6df.jpg",
+    "description": "Idk what to say.",
+    "price": 0
+    }
+  ]
+}
+}
